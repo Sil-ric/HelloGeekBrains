@@ -17,6 +17,7 @@ int main()
 
     int b = 0;
     b = b + 2;
+    srd::cout << b\n;
 
     int test;
     test = 100500;
